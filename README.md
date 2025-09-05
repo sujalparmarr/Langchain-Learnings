@@ -1,2 +1,5 @@
 # Langchain-Learnings
-This repo is a collection of all the codes I write while practicing LangChain. I’ll keep uploading whatever I try out, from basic examples to advanced concepts, so it’s mainly a practice space to track my learning journey.
+This repository is like my personal notebook for learning LangChain.
+Whenever I practice, I write code and then save it here. It will include everything I try out starting from very basic examples and moving step by step toward advanced concepts.
+
+As I continue learning, I will keep adding new codes and ideas here. Over time, this will become a record of my complete learning journey with LangChain.
