@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 # This is LLM
 from langchain_openai import OpenAI
 llm = OpenAI(model="gpt-3.5-turbo-instruct")
